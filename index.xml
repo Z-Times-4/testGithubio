@@ -5,10 +5,19 @@
     <link>https://z-times-4.github.io/testGithubio/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Jul 2017 17:04:57 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 17:25:02 +0900</lastBuildDate>
     
 	<atom:link href="https://z-times-4.github.io/testGithubio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Third</title>
+      <link>https://z-times-4.github.io/testGithubio/post/third/</link>
+      <pubDate>Fri, 28 Jul 2017 17:25:02 +0900</pubDate>
+      
+      <guid>https://z-times-4.github.io/testGithubio/post/third/</guid>
+      <description>3つめ。</description>
+    </item>
     
     <item>
       <title>Second</title>
